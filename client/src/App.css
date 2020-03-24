@@ -1,0 +1,14 @@
+.logo {
+  width: 120px;
+  height: 31px;
+  margin-left: -22px;
+  float: left;
+  /* background: rgba(255,255,255,.2); */
+  /* margin: 0 2px 16px -22px; */
+}
+
+.title {
+    color: #D3D3D3;
+    font-family: 'PT Mono';
+    font-weight: normal;
+}
