@@ -1,7 +1,5 @@
 ## Session Log
 
-https://session-log.herokuapp.com
-
 This web application is a **Node.js** app comprised of a **React.js** front-end (*client* directory), an **Express.js** server (*app.js* file), and a **MongoDB** database.
 
 The website offers three main functions:
